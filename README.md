@@ -1,8 +1,6 @@
 # Hi, I'm Hamza! 👋  
 **I am an aspiring Software Developer & Data Engineer**  
 
-📄 [My Resume](#)
-
 ## 👨‍💻 Software Development Projects:
 
 - **EconoMe (Budgeting Application)** - AI-powered app offering tailored budget recommendations, predictive analytics, and secure data handling with RESTful APIs and SQL.
