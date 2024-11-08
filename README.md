@@ -1,5 +1,6 @@
 # Hi, I'm Hamza! 👋  
-**Aspiring Software Developer & Data Engineer**  
+**I am an aspiring Software Developer & Data Engineer**  
+
 📄 [My Resume](#)
 
 ## 👨‍💻 Software Development Projects:
