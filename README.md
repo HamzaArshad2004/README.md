@@ -13,4 +13,4 @@
 
 
 ## 📬 Connect with Me:
-Feel free to reach out on [LinkedIn](#https://www.linkedin.com/in/muhammad-majeed/) or check out more of my work here on GitHub!
+Feel free to reach out to me on Linkedin (https://www.linkedin.com/in/muhammad-majeed/) or check out more of my work here on GitHub!
