@@ -2,8 +2,6 @@
 **Aspiring Software Developer & Data Engineer**  
 📄 [My Resume](#)
 
----
-
 ## 👨‍💻 Software Development Projects:
 
 - **EconoMe (Budgeting Application)** - AI-powered app offering tailored budget recommendations, predictive analytics, and secure data handling with RESTful APIs and SQL.
@@ -14,7 +12,6 @@
 ## 🧠 Machine Learning Research Experience:
 - **Center for Quantum and Topological Systems** (ML) - Analyzing noise fingerprints in quantum circuits using SVMs and Python-based models (https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/cqts.html)
 
----
 
 ## 📬 Connect with Me:
 Feel free to reach out on [LinkedIn](#https://www.linkedin.com/in/muhammad-majeed/) or check out more of my work here on GitHub!
